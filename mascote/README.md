@@ -7,3 +7,5 @@
 
 
 ![](https://github.com/Universidade-Livre/imagens/blob/main/mascote/mascote_ubl_3.png)
+
+![](https://github.com/Universidade-Livre/imagens/blob/main/mascote/unnamed.png)
