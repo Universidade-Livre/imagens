@@ -16,7 +16,7 @@
    id="svg5"
    inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
    sodipodi:docname="curriculo_ulivre.svg"
-   inkscape:export-filename="/home/cazevedo/Documentos/ULivre/curriculo_ulivre_1.0.0.png"
+   inkscape:export-filename="/home/cazevedo/Programas/imagens/curriculos/curriculo_ulivre_1.3.0.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96">
   <metadata
@@ -43,8 +43,8 @@
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:zoom="0.47745072"
-     inkscape:cx="503.85289"
-     inkscape:cy="321.37412"
+     inkscape:cx="695.42613"
+     inkscape:cy="463.24872"
      inkscape:window-width="1920"
      inkscape:window-height="1016"
      inkscape:window-x="0"
@@ -54,19 +54,23 @@
     <sodipodi:guide
        position="29.872002,292.26813"
        orientation="1,0"
-       id="guide825" />
+       id="guide825"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="38.280498,277.00267"
        orientation="0,-1"
-       id="guide856" />
+       id="guide856"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="29.872002,20.03584"
        orientation="0,-1"
-       id="guide98087" />
+       id="guide98087"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="399.97078,108.82155"
        orientation="1,0"
-       id="guide98204" />
+       id="guide98204"
+       inkscape:locked="false" />
   </sodipodi:namedview>
   <defs
      id="defs2">
@@ -391,71 +395,68 @@
      inkscape:label="Camada 1"
      inkscape:groupmode="layer"
      id="layer1">
-    <rect
-       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.89999998;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect98308"
-       width="370.09879"
-       height="256.96686"
-       x="29.872002"
-       y="19.99729"
-       inkscape:export-filename="/home/cazevedo/Programas/imagens/curriculos/curriculo_ulivre_1.3.0.png"
-       inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96" />
     <text
        xml:space="preserve"
        transform="scale(0.26458333)"
        id="text11368"
        style="font-style:normal;font-weight:normal;font-size:29.3333px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect11370);fill:#000000;fill-opacity:1;stroke:none" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:9.525px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.239695"
-       x="145.94241"
-       y="41.98629"
-       id="text20506"
-       transform="scale(1.0002,0.99980003)"
-       inkscape:export-filename="/home/cazevedo/Programas/imagens/curriculos/curriculo_ulivre_1.3.0.png"
-       inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96"><tspan
-         sodipodi:role="line"
-         id="tspan20504"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.525px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';stroke-width:0.239695"
-         x="145.94241"
-         y="41.98629">ULivre - Ciência da Computação</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:5.29167px;line-height:1.25;font-family:sans-serif;fill:#808080;fill-opacity:1;stroke:none;stroke-width:0.239695"
-       x="180.71469"
-       y="49.929558"
-       id="text20506-4"
-       transform="scale(1.0002,0.99980003)"
-       inkscape:export-filename="/home/cazevedo/Programas/imagens/curriculos/curriculo_ulivre_1.3.0.png"
-       inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96"><tspan
-         sodipodi:role="line"
-         id="tspan20504-4"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29167px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';fill:#808080;stroke-width:0.239695"
-         x="180.71469"
-         y="49.929558">Currículo de Formação Geral</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:5.29166985px;line-height:1.25;font-family:sans-serif;fill:#808080;fill-opacity:1;stroke:none;stroke-width:0.239695"
-       x="279.21558"
-       y="274.73288"
-       id="text20506-4-4"
-       transform="scale(1.0002,0.99980003)"
-       inkscape:export-filename="/home/cazevedo/Programas/imagens/curriculos/curriculo_ulivre_1.3.0.png"
-       inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96"><tspan
-         sodipodi:role="line"
-         id="tspan20504-4-7"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29166985px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';fill:#808080;stroke-width:0.239695"
-         x="279.21558"
-         y="274.73288">Currículo de Formação Geral V 1.3.0  - 20/10/2021</tspan></text>
     <g
-       id="g2139"
-       inkscape:export-filename="/home/cazevedo/Programas/imagens/curriculos/curriculo_ulivre_1.3.0.png"
-       inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96">
+       id="g1697">
+      <rect
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         inkscape:export-filename="/home/cazevedo/Programas/imagens/curriculos/curriculo_ulivre_1.3.0.png"
+         y="19.99729"
+         x="29.872002"
+         height="256.96686"
+         width="370.09879"
+         id="rect98308"
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.89999998;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         inkscape:export-filename="/home/cazevedo/Programas/imagens/curriculos/curriculo_ulivre_1.3.0.png"
+         transform="scale(1.0002,0.99980003)"
+         id="text20506"
+         y="41.98629"
+         x="145.94241"
+         style="font-style:normal;font-weight:normal;font-size:9.525px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.239695"
+         xml:space="preserve"><tspan
+           y="41.98629"
+           x="145.94241"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.525px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';stroke-width:0.239695"
+           id="tspan20504"
+           sodipodi:role="line">ULivre - Ciência da Computação</tspan></text>
+      <text
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         inkscape:export-filename="/home/cazevedo/Programas/imagens/curriculos/curriculo_ulivre_1.3.0.png"
+         transform="scale(1.0002,0.99980003)"
+         id="text20506-4"
+         y="49.929558"
+         x="180.71469"
+         style="font-style:normal;font-weight:normal;font-size:5.29167px;line-height:1.25;font-family:sans-serif;fill:#808080;fill-opacity:1;stroke:none;stroke-width:0.239695"
+         xml:space="preserve"><tspan
+           y="49.929558"
+           x="180.71469"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29167px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';fill:#808080;stroke-width:0.239695"
+           id="tspan20504-4"
+           sodipodi:role="line">Currículo de Formação Geral</tspan></text>
+      <text
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         inkscape:export-filename="/home/cazevedo/Programas/imagens/curriculos/curriculo_ulivre_1.3.0.png"
+         transform="scale(1.0002,0.99980003)"
+         id="text20506-4-4"
+         y="274.73288"
+         x="279.21558"
+         style="font-style:normal;font-weight:normal;font-size:5.29166985px;line-height:1.25;font-family:sans-serif;fill:#808080;fill-opacity:1;stroke:none;stroke-width:0.239695"
+         xml:space="preserve"><tspan
+           y="274.73288"
+           x="279.21558"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29166985px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';fill:#808080;stroke-width:0.239695"
+           id="tspan20504-4-7"
+           sodipodi:role="line">Currículo de Formação Geral V 1.3.0  - 20/10/2021</tspan></text>
       <g
          transform="translate(0.02274513,17.420573)"
          id="g284194">
@@ -948,23 +949,14 @@
       <text
          xml:space="preserve"
          style="font-style:normal;font-weight:normal;font-size:3.15599179px;line-height:1.25;font-family:sans-serif;white-space:pre;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.35066533"
-         x="186.11407"
-         y="105.8705"
+         x="186.17262"
+         y="107.7382"
          id="text54423-95-0-2"
          transform="scale(0.97797398,1.0225221)"><tspan
-           style="stroke-width:0.35066533"
-           x="186.11407"
-           y="105.8705"
-           id="tspan7617"><tspan
-             style="text-align:center;text-anchor:middle;stroke-width:0.35066533"
-             id="tspan7615">Estatística e
-</tspan></tspan><tspan
-           style="stroke-width:0.35066533"
-           x="186.11407"
-           y="109.81549"
-           id="tspan7621"><tspan
-             style="text-align:center;text-anchor:middle;stroke-width:0.35066533"
-             id="tspan7619">Probabilidade</tspan></tspan></text>
+           style="text-align:center;text-anchor:middle;stroke-width:0.35066533"
+           x="186.17262"
+           y="107.7382"
+           id="tspan7617">Álgebra Linear</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-weight:normal;font-size:3.15599179px;line-height:1.25;font-family:sans-serif;white-space:pre;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.35066533"
@@ -1110,7 +1102,7 @@
          x="383.97241"
          y="135.36681"
          id="text54423-95-0-4-8-72-5-9-7-1-5"
-         transform="scale(0.97797399,1.0225221)"><tspan
+         transform="scale(0.97797398,1.0225221)"><tspan
            style="stroke-width:0.35066533"
            x="383.97241"
            y="135.36681"
@@ -1280,7 +1272,7 @@
              style="text-align:center;text-anchor:middle;stroke-width:0.35066533"
              id="tspan7717">Circuitos Digitais</tspan></tspan></text>
       <path
-         style="fill:none;stroke:#000000;stroke-width:0.15000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.3, 0.29999999999999999;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker1619)"
+         style="fill:none;stroke:#000000;stroke-width:0.15000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.3, 0.3;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker1619)"
          d="M 77.342018,78.599526 H 94.769555"
          id="path257219"
          sodipodi:nodetypes="cc"
@@ -1330,7 +1322,7 @@
            inkscape:connector-curvature="0" />
       </g>
       <path
-         style="fill:none;stroke:#000000;stroke-width:0.152;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.304,0.304;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#Arrow2Lend-73-2-9-8-8-1)"
+         style="fill:none;stroke:#000000;stroke-width:0.152;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.304, 0.304;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#Arrow2Lend-73-2-9-8-8-1)"
          d="m 270.22543,78.558491 18.59517,0.045"
          id="path257219-5-3-8-0-6-5"
          sodipodi:nodetypes="cc"
@@ -1388,7 +1380,7 @@
          id="path278633"
          inkscape:connector-curvature="0" />
       <path
-         style="fill:none;stroke:#000000;stroke-width:0.15000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.3, 0.29999999999999999;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker1459)"
+         style="fill:none;stroke:#000000;stroke-width:0.15000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.3, 0.3;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker1459)"
          d="m 343.18484,108.61363 v 30.89718 h 9.25235"
          id="path278635"
          inkscape:connector-curvature="0" />
@@ -1396,7 +1388,7 @@
          inkscape:connector-curvature="0"
          id="path1765"
          d="m 204.90007,78.523043 h 10.80609 V 66.608639 h 57.3554 v 6.234282 h 15.65497"
-         style="fill:none;stroke:#000000;stroke-width:0.15199999;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:0.30399999, 0.60799996999999995;stroke-dashoffset:0;marker-end:url(#marker1805)" />
+         style="fill:none;stroke:#000000;stroke-width:0.152;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.30399999, 0.60799997;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker1805)" />
     </g>
   </g>
 </svg>
