@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Camada_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1080 1080" style="enable-background:new 0 0 1080 1080;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:url(#SVGID_1_);}
+	.st1{clip-path:url(#SVGID_00000174575810005316430070000007397189027225430712_);}
+	.st2{fill:#010202;stroke:#000000;stroke-width:6;stroke-miterlimit:10;}
+	.st3{fill:url(#SVGID_00000150804684369834283130000015280177796448838843_);}
+	.st4{fill:url(#SVGID_00000154411977599175524320000014273229083376842416_);}
+	.st5{fill:url(#SVGID_00000131360141067165001450000006699586759182191534_);}
+	.st6{fill:#FFFFFF;}
+	.st7{font-family:'Exo2-Bold';}
+	.st8{font-size:392.6548px;}
+	.st9{letter-spacing:19;}
+	.st10{font-family:'Exo2-Regular';}
+	.st11{font-size:83.6096px;}
+	.st12{letter-spacing:16;}
+	.st13{letter-spacing:3;}
+	.st14{font-size:60px;}
+	.st15{letter-spacing:2;}
+	.st16{fill:#406FB5;}
+	.st17{fill:none;stroke:#000000;stroke-miterlimit:10;}
+	.st18{fill:#CDA26F;}
+	.st19{fill:none;stroke:#000000;stroke-width:12;stroke-miterlimit:10;}
+	.st20{fill:#FFFFFF;stroke:#FFFFFF;stroke-width:2;stroke-miterlimit:10;}
+	.st21{fill:none;stroke:#000000;stroke-width:45;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st22{fill:#010202;}
+	.st23{fill:none;}
+	.st24{fill:none;stroke:#616160;stroke-width:50;stroke-miterlimit:10;}
+	.st25{stroke:#000000;stroke-width:45;stroke-miterlimit:10;}
+	.st26{clip-path:url(#SVGID_00000024698470148341852750000013017886209448753302_);}
+	.st27{fill:none;stroke:#010202;stroke-width:50;stroke-miterlimit:10;}
+	.st28{clip-path:url(#SVGID_00000140694838615459084610000002701767937313147029_);}
+</style>
+<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="-7931.0771" y1="3715.3845" x2="-6851.0771" y2="3715.3845" gradientTransform="matrix(0 1 -1 0 4255.3848 7931.0771)">
+	<stop  offset="0" style="stop-color:#28AD7A"/>
+	<stop  offset="0.1402" style="stop-color:#20A483"/>
+	<stop  offset="0.4232" style="stop-color:#088E94"/>
+	<stop  offset="0.8194" style="stop-color:#14659D"/>
+	<stop  offset="1" style="stop-color:#21509A"/>
+</linearGradient>
+<polygon class="st0" points="0,1080 0,0 1080,0 1080,1080 "/>
+<text transform="matrix(1 0 0 1 142.6293 551.3569)" class="st6 st7 st8 st9">UBL</text>
+<g>
+	<text transform="matrix(1 0 0 1 165.5974 672.497)" class="st6 st10 st11 st12">UNIVERSIDADE</text>
+</g>
+<text transform="matrix(1 0 0 1 164.2617 762.6572)" class="st6 st7 st11 st13">BRASILEIRA LIVRE</text>
+<g>
+	<text transform="matrix(1 0 0 1 168.3876 836.7846)" class="st6 st10 st14 st15">Ciência da Computação</text>
+</g>
+<g>
+	<defs>
+		<path id="SVGID_00000088094291136175102320000008840377213107366331_" d="M2918.29-2538.01
+			c-23.54-55.65-57.23-105.63-100.15-148.55s-92.89-76.61-148.55-100.15c-57.62-24.37-118.83-36.73-181.91-36.73
+			s-124.29,12.36-181.91,36.73c-55.65,23.54-105.63,57.23-148.55,100.15c-42.92,42.92-76.61,92.89-100.15,148.55
+			c-24.37,57.62-36.73,118.83-36.73,181.91c0,63.09,12.36,124.29,36.73,181.91c23.54,55.65,57.23,105.63,100.15,148.55
+			c42.92,42.92,92.89,76.61,148.55,100.15c57.62,24.37,118.83,36.73,181.91,36.73s124.29-12.36,181.91-36.73
+			c55.65-23.54,105.63-57.23,148.55-100.15c42.92-42.92,76.61-92.89,100.15-148.55c24.37-57.62,36.73-118.83,36.73-181.91
+			C2955.02-2419.18,2942.66-2480.39,2918.29-2538.01z"/>
+	</defs>
+	<clipPath id="SVGID_00000021082096378816440830000002130965627812708251_">
+		<use xlink:href="#SVGID_00000088094291136175102320000008840377213107366331_"  style="overflow:visible;"/>
+	</clipPath>
+	<g style="clip-path:url(#SVGID_00000021082096378816440830000002130965627812708251_);">
+	</g>
+</g>
+</svg>
