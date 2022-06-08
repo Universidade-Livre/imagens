@@ -17,4 +17,7 @@
     - [LOGO E NOME VERTICAL](./PNG/logo-preta/LOGO-UBL-SEM-FUNDO-05.png)
     - [NOME](./PNG/logo-preta/LOGO-UBL-SEM-FUNDO-08.png)
     - [LOGO](./PNG/logo-preta/LOGO-UBL-SEM-FUNDO-07.png)
+- PDF
+  - [RGB](./PDF/LOGO-UBL-RGB.pdf)
+  - [CMYK](./PDF/LOGO-UBL-CMYK.pdf)
  
