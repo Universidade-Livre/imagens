@@ -2,7 +2,7 @@
 
 ## Logos
 - PNG
-  - Logo sem fundo:
+  - Logo:
     - [LOGO E NOME HORIZONTAL](./PNG/Logo-sem-fundo-padrão/LOGO-UBL-SEM-FUNDO-09.png)
     - [LOGO E NOME VERTICAL](./PNG/Logo-sem-fundo-padrão/LOGO-UBL-SEM-FUNDO-10.png)
     - [LOGO](./PNG/Logo-sem-fundo-padrão/LOGO-UBL-SEM-FUNDO-11.png)
