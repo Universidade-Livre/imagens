@@ -2,6 +2,7 @@
 
 O logo da UBL foi criado pelo Designer [Wesley Krasnievicz](https://www.behance.net/krasnieviczdesigner). O conceito traduz o que a UBL tem como missão: levar conhecimentos tecnológico a todos os cantos do Brasil. Os pontos presentes em nossa logo fazem menção a plataforma que utilizamos para divagar o conteúdo e chegar até as pessoas, que é o GitHub, por todo o Brasil.
 
+![Logo da UBL que mostra o mapa do brazil conectado através dos caminhos de branch do git](PNG/Logo-sem-fundo-padrão/LOGO-UBL-SEM-FUNDO-09.png)
 
 ## Logos
 - PNG
