@@ -6,6 +6,10 @@
    aria-label="OSSU: computer-science"
    version="1.1"
    id="svg30"
+   sodipodi:docname="UBL-computer-science-web.svg"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg"
@@ -15,6 +19,7 @@
   <defs
      id="defs34">
     <linearGradient
+       inkscape:collect="always"
        id="linearGradient31776">
       <stop
          style="stop-color:#1a9a3b;stop-opacity:1"
@@ -38,6 +43,7 @@
          id="stop31774" />
     </linearGradient>
     <linearGradient
+       inkscape:collect="always"
        id="linearGradient27838">
       <stop
          style="stop-color:#1a9a3b;stop-opacity:1"
@@ -78,6 +84,7 @@
          id="stop6-3" />
     </linearGradient>
     <linearGradient
+       inkscape:collect="always"
        xlink:href="#linearGradient27838"
        id="linearGradient31638"
        gradientUnits="userSpaceOnUse"
@@ -86,6 +93,7 @@
        x2="148.3399"
        y2="10.231078" />
     <linearGradient
+       inkscape:collect="always"
        xlink:href="#linearGradient31776"
        id="linearGradient31642"
        gradientUnits="userSpaceOnUse"
@@ -107,6 +115,25 @@
          ry="3.5349078" />
     </clipPath>
   </defs>
+  <sodipodi:namedview
+     id="namedview32"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     showguides="false"
+     inkscape:zoom="2.8354548"
+     inkscape:cx="127.49277"
+     inkscape:cy="-17.281178"
+     inkscape:window-width="1920"
+     inkscape:window-height="947"
+     inkscape:window-x="0"
+     inkscape:window-y="32"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
   <title
      id="title2">OSSU: computer-science</title>
   <linearGradient
@@ -146,17 +173,26 @@
     </rdf:RDF>
   </metadata>
   <g
+     inkscape:groupmode="layer"
      id="layer3"
+     inkscape:label="UP0"
      style="display:inline" />
   <g
+     inkscape:groupmode="layer"
      id="layer2"
+     inkscape:label="UP1"
      style="display:inline" />
   <g
+     inkscape:groupmode="layer"
      id="layer1"
+     inkscape:label="UP2"
      style="display:inline">
     <g
        id="g97457"
-       clip-path="url(#clipPath98226)">
+       clip-path="url(#clipPath98226)"
+       inkscape:export-filename="/home/cazevedo/Projects/imagens/svg/badge.png"
+       inkscape:export-xdpi="192"
+       inkscape:export-ydpi="192">
       <g
          id="g97748">
         <rect
@@ -234,9 +270,9 @@
            xml:space="preserve"><tspan
              x="935"
              y="140"
-             id="tspan964"><tspan
+             id="tspan1027"><tspan
                dx="0 -16.4688 -16.4688 -16.4688 -16.4688 -16.4688 -16.4688 -16.4688 -16.4688 -16.4688 -16.4688 -16.4688 -16.4688 -16.4688 -16.4688 -16.4688 -16.4688 -16.4688 -16.4688 -16.4688 -16.4688"
-               id="tspan962">ciência-da-computação</tspan></tspan></text>
+               id="tspan1025">ciência-da-computação</tspan></tspan></text>
       </g>
     </g>
   </g>
